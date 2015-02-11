@@ -1,0 +1,8 @@
+@import "bower_components/bootstrap-sass-official/vendor/assets/stylesheets/bootstrap.scss";
+//@import "bower_components/bootstrap/less/theme.less";
+
+/* Component sass */
+/* Add Component sass Above */
+
+/* Required for Angular UI Bootstrap */
+.nav, .pagination, .carousel, .panel-title a { cursor: pointer; }
